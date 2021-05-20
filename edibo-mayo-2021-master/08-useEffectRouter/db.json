@@ -1,0 +1,71 @@
+{
+  "doctors": [
+    {
+      "name": "ssdffdsffsdf",
+      "service": "asdfsdfsadfffffffff",
+      "id": 1
+    },
+    {
+      "name": "dfsd",
+      "service": "sdf",
+      "id": 2
+    },
+    {
+      "name": "Gomez",
+      "service": "Cardiologia",
+      "id": 3
+    },
+    {
+      "name": "Gomez",
+      "service": "Trauma",
+      "id": 4
+    },
+    {
+      "name": "dr pepito",
+      "service": "traumatologia",
+      "id": 5
+    },
+    {
+      "name": "dddd",
+      "service": "",
+      "id": 6
+    },
+    {
+      "name": "dr. perez",
+      "service": "traumatologia",
+      "id": 7
+    }
+  ],
+  "patients": [
+    {
+      "id": 1,
+      "name": "Sarah Connor",
+      "age": 25
+    },
+    {
+      "name": "John Smith",
+      "age": 33,
+      "id": 2
+    },
+    {
+      "name": "Susan ",
+      "age": 25,
+      "id": 3
+    },
+    {
+      "name": "JUANITO",
+      "age": 56,
+      "id": 7
+    },
+    {
+      "name": "MR WAYNE",
+      "age": 35,
+      "id": 10
+    },
+    {
+      "id": 11,
+      "name": "MR WAYNE 5",
+      "age": 66
+    }
+  ]
+}
