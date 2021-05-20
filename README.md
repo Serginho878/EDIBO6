@@ -1,2 +1,0 @@
-# EDIBO6
-pene
